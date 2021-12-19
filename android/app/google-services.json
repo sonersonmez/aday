@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804122511660",
+    "project_id": "adaysecim-32a4c",
+    "storage_bucket": "adaysecim-32a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804122511660:android:d7c56777cd39ed67794489",
+        "android_client_info": {
+          "package_name": "com.example.aday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804122511660-gqrb4o4o18dipu60e33gi1qp9t5ata6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUrLFcHLMOL7HfNl2qXgMUT-qHttlwkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804122511660-gqrb4o4o18dipu60e33gi1qp9t5ata6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
